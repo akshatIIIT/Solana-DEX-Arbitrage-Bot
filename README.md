@@ -139,12 +139,3 @@ POST /api/scanner/stop            Stop scanner
 
 ---
 
-## 🚨 Upgrading to Real Trading (Phase 3)
-
-Before you ever touch real money:
-- [ ] Run scanner for at least 1–2 weeks, understand the data
-- [ ] Build and run paper trading for 2–4 weeks with success
-- [ ] Start with $50 maximum
-- [ ] Set 2% daily loss limit (hardcoded, not just config)
-- [ ] Get a paid RPC (https://helius.dev)
-- [ ] Understand taxes in your country
