@@ -1,8 +1,9 @@
 
-
 ## 🎥 Demo
 
 https://github.com/user-attachments/assets/87a7e1d9-cba0-4ac0-b6d9-b409ce433e76
+
+<img width="738" height="1600" alt="WhatsApp Image 2026-07-02 at 15 30 31" src="https://github.com/user-attachments/assets/3e82790b-e847-42b2-91dc-a4993da0188a" />
 
 # ⚡ Solana Arb Bot — Full Stack Platform
 
