@@ -10,6 +10,10 @@ arb-platform/
 
 ---
 
+## 🎥 Demo
+
+▶️ **[Watch Demo Video](https://github.com/user-attachments/assets/f02cd8d3-2f51-4e72-b2d2-18e3a8173e4d)**
+
 ## 🚀 Setup (Two Terminals)
 
 ### Prerequisites
