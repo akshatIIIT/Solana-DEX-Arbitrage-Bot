@@ -1,3 +1,9 @@
+
+
+## 🎥 Demo
+
+https://github.com/user-attachments/assets/87a7e1d9-cba0-4ac0-b6d9-b409ce433e76
+
 # ⚡ Solana Arb Bot — Full Stack Platform
 
 Production-grade arbitrage scanner with React dashboard + Node.js backend + PostgreSQL.
@@ -10,9 +16,6 @@ arb-platform/
 
 ---
 
-## 🎥 Demo
-
-▶️ **[Watch Demo Video](https://github.com/user-attachments/assets/f02cd8d3-2f51-4e72-b2d2-18e3a8173e4d)**
 
 ## 🚀 Setup (Two Terminals)
 
