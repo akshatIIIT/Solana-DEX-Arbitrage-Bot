@@ -1,0 +1,25 @@
+{
+  "name": "arb-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "db:setup": "node src/db/setup.js",
+    "db:migrate3": "node src/db/migrate_phase3.js",
+    "wallet": "node src/utils/walletSetup.js"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.87.6",
+    "axios": "^1.7.0",
+    "bs58": "^5.0.0",
+    "chalk": "^5.3.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.0",
+    "express": "^4.19.0",
+    "pg": "^8.12.0",
+    "rpc-websockets": "^7.5.1",
+    "socket.io": "^4.7.0",
+    "winston": "^3.13.0"
+  }
+}
